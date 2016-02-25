@@ -4,7 +4,8 @@ I feel it is more convinient to have a local UI software to plot these spectra w
 Part of the code is borrowed from https://github.com/nzhagen/hitran. 
 
 HITRAN is a database of molecular absorption spectra maintained by scientists in Harvard University and elsewhere. 
-Please download the HITRAN data (https://www.cfa.harvard.edu/HITRAN/HITRAN2012/HITRAN2012/By-Molecule/Uncompressed-files/) into PAR folders.
+Please download the HITRAN data (https://www.cfa.harvard.edu/HITRAN/HITRAN2012/HITRAN2012/By-Molecule/Uncompressed-files/) into PAR folder.
 
+A compiled version in windows 64 bit environment is included. Please also put the HITRAN files into the compiled PAR folder.
 ![alt tag](https://github.com/tonyhong272/InfraredSpectrumHitran/blob/master/save/ScreenShot.png)
 ![alt tag](https://github.com/tonyhong272/InfraredSpectrumHitran/blob/master/save/image.png)
